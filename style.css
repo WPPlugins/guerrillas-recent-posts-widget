@@ -1,0 +1,31 @@
+/*
+	These are the custom css styles for the Guerrilla Recent Posts plugin.
+	If you'd like to customize these css codes, I would recommend copying
+	the codes below into your theme's stylesheet and editing the codes
+	as you see fit. Need help? email: hi@madebyguerrilla.com
+*/
+
+.PostWrap {
+	float: left;
+	margin: 5px 0;
+	width: 100%;
+}
+
+.attachment-75x75 {
+	float: left;
+	margin: 0 10px 0 0;
+}
+
+.postwidgettitle {
+	font-size: 15px;
+	line-height: 19px;
+	padding: 0;
+	margin: 0;
+}
+
+.postwidgetinfo {
+	font-size: 12px;
+	line-height: 16px;
+	padding: 0;
+	margin: 5px 0 0 0;
+}
